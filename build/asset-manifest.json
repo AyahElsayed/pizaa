@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/pizza/static/js/main.512d813c.chunk.js",
-    "main.js.map": "/pizza/static/js/main.512d813c.chunk.js.map",
-    "runtime-main.js": "/pizza/static/js/runtime-main.c312b848.js",
-    "runtime-main.js.map": "/pizza/static/js/runtime-main.c312b848.js.map",
-    "static/js/2.e3621e6a.chunk.js": "/pizza/static/js/2.e3621e6a.chunk.js",
-    "static/js/2.e3621e6a.chunk.js.map": "/pizza/static/js/2.e3621e6a.chunk.js.map",
-    "static/js/3.520ad207.chunk.js": "/pizza/static/js/3.520ad207.chunk.js",
-    "static/js/3.520ad207.chunk.js.map": "/pizza/static/js/3.520ad207.chunk.js.map",
-    "index.html": "/pizza/index.html",
-    "static/js/2.e3621e6a.chunk.js.LICENSE.txt": "/pizza/static/js/2.e3621e6a.chunk.js.LICENSE.txt",
-    "static/media/featured3.66d68644.jpg": "/pizza/static/media/featured3.66d68644.jpg",
-    "static/media/pizza-3.f2f9b9a4.jpg": "/pizza/static/media/pizza-3.f2f9b9a4.jpg",
-    "static/media/product-1.36d084f3.jpg": "/pizza/static/media/product-1.36d084f3.jpg",
-    "static/media/product-2.4c066971.jpg": "/pizza/static/media/product-2.4c066971.jpg",
-    "static/media/product-3.115cc32b.jpg": "/pizza/static/media/product-3.115cc32b.jpg",
-    "static/media/product-4.19ddaa72.jpeg": "/pizza/static/media/product-4.19ddaa72.jpeg",
-    "static/media/product-5.a904d082.jpeg": "/pizza/static/media/product-5.a904d082.jpeg",
-    "static/media/product-6.c4f4414f.jpeg": "/pizza/static/media/product-6.c4f4414f.jpeg"
+    "main.js": "/static/js/main.512d813c.chunk.js",
+    "main.js.map": "/static/js/main.512d813c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe185333.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe185333.js.map",
+    "static/js/2.c228c6fa.chunk.js": "/static/js/2.c228c6fa.chunk.js",
+    "static/js/2.c228c6fa.chunk.js.map": "/static/js/2.c228c6fa.chunk.js.map",
+    "static/js/3.520ad207.chunk.js": "/static/js/3.520ad207.chunk.js",
+    "static/js/3.520ad207.chunk.js.map": "/static/js/3.520ad207.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.c228c6fa.chunk.js.LICENSE.txt": "/static/js/2.c228c6fa.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/static/media/product-3.115cc32b.jpg",
+    "static/media/product-4.19ddaa72.jpeg": "/static/media/product-4.19ddaa72.jpeg",
+    "static/media/product-5.a904d082.jpeg": "/static/media/product-5.a904d082.jpeg",
+    "static/media/product-6.c4f4414f.jpeg": "/static/media/product-6.c4f4414f.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c312b848.js",
-    "static/js/2.e3621e6a.chunk.js",
+    "static/js/runtime-main.fe185333.js",
+    "static/js/2.c228c6fa.chunk.js",
     "static/js/main.512d813c.chunk.js"
   ]
 }
